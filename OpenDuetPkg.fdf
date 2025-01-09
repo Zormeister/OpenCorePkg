@@ -36,6 +36,7 @@
   # USB (UHCI may be used for input, XHCI cannot be booted from)
   INF  MdeModulePkg/Bus/Pci/UhciDxe/UhciDxe.inf
   INF  MdeModulePkg/Bus/Pci/EhciDxe/EhciDxe.inf
+  INF  MdeModulePkg/Bus/Pci/XhciDxe/XhciDxe.inf
   INF  MdeModulePkg/Bus/Usb/UsbBusDxe/UsbBusDxe.inf
   INF  MdeModulePkg/Bus/Usb/UsbMassStorageDxe/UsbMassStorageDxe.inf
 
